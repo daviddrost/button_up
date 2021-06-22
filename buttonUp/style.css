@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#Search{
+    margin: 25px;
+    border-color: teal;
+    height: 25px;
+    width: 100px;
+    border-radius: 25px;
+    display: block;
+    
+    
+}
+
+
+#plus{
+    margin: 25px;
+    color: white;
+    background-color: turquoise;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    text-size-adjust: 50px;
+    display: block;
+    
+}
+
+
+#create_account{
+    margin: 25px;
+    height: 50px;
+    width: 100px;
+    color: white;
+    display: block;
+    background-color: blue;
+    box-shadow: 10px 10px black;
+    
+
+
+    
+    
+    
+
+}
